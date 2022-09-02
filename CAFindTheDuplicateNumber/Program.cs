@@ -18,22 +18,22 @@ namespace CAFindTheDuplicateNumber
         
         while(true)
         {            
-            if(nums[slowPointer] == nums[nums[fastPointer]])
-              break;
+          slowPointer = nums[slowPointer];
+          fastPointer= nums[nums[fastPointer]];
 
-              slowPointer++;
-              fastPointer+=2;
+            if(slowPointer == fastPointer)
+              break;
         }
         
         int slowPointer2=0;
 
         while(true)
         {
-            slowPointer--;
-            slowPointer2++;
+          slowPointer = nums[slowPointer];
+          slowPointer2 = nums[slowPointer2];
 
-            if(nums[slowPointer] == nums[slowPointer2])            
-               return nums[slowPointer];
+            if(slowPointer == slowPointer2)            
+               return slowPointer;
                       
         }
         }
