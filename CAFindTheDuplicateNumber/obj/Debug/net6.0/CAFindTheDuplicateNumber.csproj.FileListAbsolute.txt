@@ -1,0 +1,15 @@
+C:\Users\cagda\Desktop\CAFindTheDuplicateNumber\CAFindTheDuplicateNumber\bin\Debug\net6.0\CAFindTheDuplicateNumber.exe
+C:\Users\cagda\Desktop\CAFindTheDuplicateNumber\CAFindTheDuplicateNumber\bin\Debug\net6.0\CAFindTheDuplicateNumber.deps.json
+C:\Users\cagda\Desktop\CAFindTheDuplicateNumber\CAFindTheDuplicateNumber\bin\Debug\net6.0\CAFindTheDuplicateNumber.runtimeconfig.json
+C:\Users\cagda\Desktop\CAFindTheDuplicateNumber\CAFindTheDuplicateNumber\bin\Debug\net6.0\CAFindTheDuplicateNumber.dll
+C:\Users\cagda\Desktop\CAFindTheDuplicateNumber\CAFindTheDuplicateNumber\bin\Debug\net6.0\CAFindTheDuplicateNumber.pdb
+C:\Users\cagda\Desktop\CAFindTheDuplicateNumber\CAFindTheDuplicateNumber\obj\Debug\net6.0\CAFindTheDuplicateNumber.csproj.AssemblyReference.cache
+C:\Users\cagda\Desktop\CAFindTheDuplicateNumber\CAFindTheDuplicateNumber\obj\Debug\net6.0\CAFindTheDuplicateNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagda\Desktop\CAFindTheDuplicateNumber\CAFindTheDuplicateNumber\obj\Debug\net6.0\CAFindTheDuplicateNumber.AssemblyInfoInputs.cache
+C:\Users\cagda\Desktop\CAFindTheDuplicateNumber\CAFindTheDuplicateNumber\obj\Debug\net6.0\CAFindTheDuplicateNumber.AssemblyInfo.cs
+C:\Users\cagda\Desktop\CAFindTheDuplicateNumber\CAFindTheDuplicateNumber\obj\Debug\net6.0\CAFindTheDuplicateNumber.csproj.CoreCompileInputs.cache
+C:\Users\cagda\Desktop\CAFindTheDuplicateNumber\CAFindTheDuplicateNumber\obj\Debug\net6.0\CAFindTheDuplicateNumber.dll
+C:\Users\cagda\Desktop\CAFindTheDuplicateNumber\CAFindTheDuplicateNumber\obj\Debug\net6.0\refint\CAFindTheDuplicateNumber.dll
+C:\Users\cagda\Desktop\CAFindTheDuplicateNumber\CAFindTheDuplicateNumber\obj\Debug\net6.0\CAFindTheDuplicateNumber.pdb
+C:\Users\cagda\Desktop\CAFindTheDuplicateNumber\CAFindTheDuplicateNumber\obj\Debug\net6.0\CAFindTheDuplicateNumber.genruntimeconfig.cache
+C:\Users\cagda\Desktop\CAFindTheDuplicateNumber\CAFindTheDuplicateNumber\obj\Debug\net6.0\ref\CAFindTheDuplicateNumber.dll
